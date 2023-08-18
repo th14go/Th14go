@@ -11,6 +11,9 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=7F52FF)](https://www.jetbrains.com/)
 [![.Net](https://img.shields.io/badge/-.Net-512BD4?style=flat&logo=.net&logoColor=white)](https://www.microsoft.com/)
 [![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp)](https://www.microsoft.com/)
+[![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)](https://developer.mozilla.org/)
+[![Html](https://img.shields.io/badge/-Html-black?style=flat&logo=html5)](https://www.w3.org/)
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=1572B6)](https://www.w3.org/)
 [![NodeJs](https://img.shields.io/badge/-NodeJs-black?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://www.microsoft.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28)](https://www.firebase.com/)
@@ -22,8 +25,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)](https://www.git-scm.com/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia)](https://insomnia.rest/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/-Figma-FF6C37?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=FF6C37)](https://www.figma.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)](https://www.figma.com/)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=F24E1E)](https://www.ubuntu.com/)
 
 ### GitHub Tasks 📊
